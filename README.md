@@ -20,8 +20,11 @@ $ git clone https://github.com/Snowad14/Raw-Novel-Translation.git
 
 # Install the dependencies
 $ pip install -r requirements.txt
+
 ```
 
+Then, download `ocr.ckpt`, `ocr-ctc.ckpt`, `detect.ckpt`, `comictextdetector.pt` and `comictextdetector.pt.onnx`
+from <https://github.com/zyddnys/manga-image-translator/releases/>, put them in the root directory of this repo.
 
 ## Usage 👍
 
