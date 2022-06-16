@@ -1,0 +1,15 @@
+result
+*.ckpt
+*.pt
+.vscode
+*.onnx
+__pycache__
+ocrs
+activate.bat
+activate.ps1
+comictextdetector.pt
+comictextdetector.pt.onnx
+detect.ckpt
+ocr-ctc.ckpt
+ocr.ckpt
+bfg-1.14.0.jar
