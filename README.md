@@ -26,6 +26,8 @@ $ pip install -r requirements.txt
 Then, download `ocr.ckpt`, `ocr-ctc.ckpt`, `detect.ckpt`, `comictextdetector.pt` and `comictextdetector.pt.onnx`
 from <https://github.com/zyddnys/manga-image-translator/releases/>, put them in the root directory of this repo.
 
+<!> If you use paid translators put the api key in the file `translators/keys.py`
+
 ## Usage 👍
 
 ```bash
