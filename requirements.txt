@@ -17,4 +17,5 @@ sklearn
 deepl
 ImageHash
 kornia
+python-dotenv
 backports.cached-property
