@@ -13,3 +13,5 @@ detect.ckpt
 ocr-ctc.ckpt
 ocr.ckpt
 bfg-1.14.0.jar
+delete.py
+translators/keys.py

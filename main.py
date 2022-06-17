@@ -22,7 +22,7 @@ parser.add_argument('--image', default='', type=str, help='Image file if using d
 parser.add_argument('--image-dst', default='', type=str, help='Destination folder for translated images in batch mode')
 parser.add_argument('--ocr-model', default='48px_ctc', type=str, help='OCR model to use, one of `32px`, `48px_ctc`')
 parser.add_argument('--use-cuda', action='store_true', help='turn on/off cuda')
-parser.add_argument('--translator', default='google', type=str, help='language translator')
+parser.add_argument('--translator', default='deepl', type=str, help='language translator')
 parser.add_argument('--target-lang', default='FRA', type=str, help='destination language')
 parser.add_argument('--use-ctd', action='store_true', help='use comic-text-detector for text detection')
 parser.add_argument('--unclip-ratio', default=2.3, type=float, help='How much to extend text skeleton to form bounding box')
